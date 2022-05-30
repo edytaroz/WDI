@@ -1,0 +1,6 @@
+a = int(input("a = "))
+b = int(input("b = "))
+n = int(input("n = "))
+c = 2**(0.5)
+print(c)
+print(round((a/b), n))
